@@ -1,4 +1,4 @@
-Pillow==6.2.1	
+Pillow==9.0.1	
 SpeechRecognition==3.8.1	
 gTTS==2.1.1	
 gTTS-token==1.1.3	
